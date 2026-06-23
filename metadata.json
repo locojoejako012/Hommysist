@@ -1,0 +1,6 @@
+{
+  "name": "Hommysist",
+  "description": "Marketplace de servicios domésticos de confianza en Managua, Nicaragua. Conecta clientes con profesionales de limpieza, mantenimiento y servicios especiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
